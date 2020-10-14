@@ -1,3 +1,5 @@
+This app was developed while i was learning React. It shows famous phrases from the serie Breaking Bad.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
